@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Kickass crypto thing</title>
+        <title>Crypto Comparer</title>
         <meta
           name="description"
           content="This calculates awesome stuff for crypto things...or so I heard"

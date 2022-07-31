@@ -12,7 +12,7 @@ export default function Footer() {
 
               <ul>
                 <li className="pb-4">
-                  Schtekarnas högkvarter 3b
+                  Cryptogatan 3b
                   <br />
                 </li>
                 <li className="pb-4">
