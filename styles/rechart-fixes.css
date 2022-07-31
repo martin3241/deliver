@@ -1,0 +1,13 @@
+.graph-container{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+@media screen and (max-width: 991px){
+    .graph-container{
+      width: 90%!important;
+    };
+}
